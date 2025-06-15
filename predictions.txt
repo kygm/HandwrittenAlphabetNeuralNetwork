@@ -1,0 +1,13 @@
+"a_1.png" - predicted 'a'
+"a_2.png" - predicted 'k'
+"a_3.png" - predicted 'x'
+"b_1.png" - predicted 'h'
+"c_1.png" - predicted 'c'
+"l_1.png" - predicted 'l'
+"m_1.png" - predicted 'n'
+"q_1.png" - predicted 't'
+"R_1.png" - predicted 'k'
+"y_1.png" - predicted 'y'
+"z_1.png" - predicted 'z'
+
+Accuracy: 5/11 = 45.45%
